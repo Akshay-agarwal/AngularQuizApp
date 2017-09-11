@@ -8,6 +8,7 @@
             var vm = this;
             vm.data = turtlesData;
             vm.activeTurtle = {};
+            vm.search = "";
 
             vm.changeActiveTurtle = changeActiveTurtle;
 
